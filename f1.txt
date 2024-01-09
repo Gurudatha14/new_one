@@ -2,6 +2,7 @@ hii this is f1 file
 
 let's make sme changes and see
 
+reseting the brnches what we used 
 
 for third time merging we will go for some 
 extra line 
